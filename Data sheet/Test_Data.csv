@@ -1,0 +1,105 @@
+Field_Data,Field_data_iter1
+signup_first_name,"#@2323##$$ ,Arnav"
+signup_last_name,"23##re,A"
+signup_email_id,"Testempgmail.com,Aarav123@mail.com"
+signup_phone_number,"222555 ,22255523234578 ,2225555131,4442041157"
+signup_password,"Welcome@1,Aarav@97"
+signup_confirm_password,"Welcome@,Welcome@1,Aarav@97"
+signup_firstname_valid_msg,Invalid first name
+signup_lastname_valid_msg,Invalid last name
+signup_email_invalid_msg,Invalid email
+signup_email_blank_msg,Email ID required
+signup_less_ten_msg,Phone number should be 10 digit number
+signup_more_ten_msg,Phone number should be 10 digit number
+signup_exist_no_msg,Phone no already exists.
+otp_1,1
+otp_2,2
+otp_3,3
+otp_4,4
+login_invalid_msg,"Invalid username or password, please try again."
+forgot_phone_number,"5,55,12,34,78,91,21,75,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,000"
+forgot_phoneno_required_msg,Phone number required
+forgot_less_no_msg,Phone number should be 10 digit number
+forgot_nonreg_no_msg,Phone number doesn't exists
+login_invalid_msg,"Invalid username or password, please try again."
+signup_exist_no_msg,Phone no already exists.
+login_phone_number,"44,45,55,88,81,33,35,50,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,000"
+login_password,"Sariga27*@,GetMpowered@1,Welcome@1,Itsmetony@123,Eddie@123"
+card_no,1234
+expiration_date,4
+cvc,8
+postal_code,44
+phone_no,"7,86,54,44,441"
+account_holder_name,123#
+routing_no,45
+account_no,ab
+save_as,1
+phone_no_valid_msg,Phone number required
+add_line_one_valid_msg,Field required
+state_valid_msg,Field required
+city_valid_msg,Field required
+save_as_valid_msg,Field required
+account_holder_name_valid_msg,Invalid name
+routing_no_valid_msg,Routing number should be 9 digit number
+account_no_valid_msg,Invalid account number
+account_holder_name_valid_msg_two,Full name required
+routing_no_valid_msg_two,Required
+account_no_valid_msg_two,Required
+save_as_valid_msg_two,Required
+redeem_points_giftcard,adidas Gift Card
+redeem_points_amount,"50,0,20"
+amount_exceed_valid_msg,Amount exceeds range
+amount_less_valid_msg,Amount is too less
+circles_mymedicare_username,"BBUser27961,bbuser12"
+circles_mymedicare_password,"PW27961!,pw12"
+bills_newest,Newest
+bills_slide,$0
+security_code_valid_msg,Security code required
+password_valid_msg,Password required
+profile_security_code,"abcd,1234"
+profile_password,"Pritha@1998,Saritha@12"
+security_code_valid_msg_two,Code doesn't match
+password_valid_msg_two,Password doesn't match
+profile_firstname_valid_msg,First name required
+profile_lastname_valid_msg,Last name required
+profile_firstname,"#pr,pri"
+profile_lastname,"RR,R#1"
+profile_preferred_name,"Ani,p#3e"
+profile_firstname_valid_msg_two,Invalid first name
+profile_lastname_valid_msg_two,Invalid last name
+profile_preferred_name_valid_msg,Invalid name
+profile_email_valid_msg,Invalid email
+profile_email_valid_msg_two,Failed to update Email
+profile_email_edttext,"pri11,r.r@gmail.com"
+profile_phone_valid_msg,Phone number should be 10 digit number
+profile_phone_edttext,6.68E+13
+your_prof_address_saveas,me
+your_prof_address_addlineone,ac
+your_prof_address_addlinetwo,chatterjee
+your_prof_address_city,cgr
+your_prof_address_state,west
+your_prof_address_zip,9
+profile_zip_invalid_msg,Invalid zipcode
+profile_saveas_valid_msg, required
+profile_address_valid_msg, required
+profile_city_valid_msg, required
+profile_state_valid_msg, required
+profile_zip_valid_msg,Zipcode required
+profile_insurer_valid_msg,Insurer name required
+profile_memberid_valid_msg,Field required
+profile_groupid_valid_msg,Field required
+profile_plan_type_valid_msg,Field required
+profile_plan_first_invalidmsg,Invalid first name
+profile_plan_last_invalidmsg,Invalid last name
+profile_plan_firstname,pri12#
+profile_plan_lastname,234Ss
+profile_old_password,"Pritha,Pritha27*@,Pritha28*@,Pritha29*@"
+profile_new_password,"Pritha96*@,saru,Pritha28*@,Pritha29*@1"
+profile_confirm_password,"Pritha96*@,Pritha28*@,Pritha29*@,saru"
+profile_old_password_vld_msg,Old password required
+profile_new_password_vld_msg,New password required
+profile_confirm_password_vld_msg,Confirm new password required
+profile_old_password_vld_msg_two,Incorrect old password
+profile_new_password_vld_msg_two,New password must be 8 or more characters long.
+profile_confirm_password_vld_msg_two,Password doesn't match
+profile_new_password_vld_msg_three,Your new password must be different from your old password
